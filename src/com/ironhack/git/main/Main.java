@@ -2,8 +2,9 @@ package com.ironhack.git.main;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world");
-        System.out.println("Bye world");
+        String name = "Mara";
+        System.out.println("Hello, " + name);
+        System.out.println("Bye World");
     }
 
 }
